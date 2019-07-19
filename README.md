@@ -1,6 +1,6 @@
 # PillsTime
 
-This app for reminder for taking tablets. In menu you can change notification time and find course history.
+If you are sick, do you often forget to take your medicine? If so, try this app, which can remind you when and what to take, and also remind you to take your medicine according to the course of treatment.
 
 # Contact Us
 
